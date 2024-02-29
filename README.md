@@ -1,5 +1,4 @@
-# Vasectasia
-Title:  Mesenchymal glioma stem cells trigger vasectasia, a distinct neovascularization process mediated by extracellular vesicles carrying EGFR
+# Mesenchymal glioma stem cells trigger vasectasia, a distinct neovascularization process mediated by extracellular vesicles carrying EGFR
 
 Authors: 	Spinelli C, Adnani L, Meehan B, Montermini L, Huang S, Kim M, Nishimura T, Croul SE, Nakano I, Riazalhosseini Y, Rak J
 
